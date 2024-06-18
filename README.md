@@ -27,7 +27,7 @@ To run this project, you need the following installed on your machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/payroll-management-system.git
+   git clone https://github.com/officialkapilydv/PayRoll-Management-System.git
    ```
 
 2. **Navigate to the Project Directory**
