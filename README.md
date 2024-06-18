@@ -138,7 +138,7 @@ Contributions are welcome! Here’s how you can help:
 
 For any inquiries or feedback, please contact:
 
-- Your Name
+- Kapil Yadav
 - Email: [kapilyadav2625@gmail.com]
 - GitHub: [officialkapilydv](https://github.com/officialkapilydv)
 
